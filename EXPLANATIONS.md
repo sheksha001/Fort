@@ -5,7 +5,7 @@
 3.	Using  Scaffold-DbContext command added DB context classes and modified coneection string in <b>appsettings.json</b> file 
 4.	Installed required NuGet packages
 5.	Added Classes and Controllers based on requirement
-6.	For API testing  we used <a target='_blank' href='https://learning.postman.com/docs/sending-requests/requests/'><b> POSTMAN </b> </a>  App.
+6.	For API testing  we used <a href='https://learning.postman.com/docs/sending-requests/requests/'  target='_blank' ><b> POSTMAN </b> </a>  App.
 7.	In Master folder  we attached  <b>DB Backup file </b>, <b>Project  Source code </b> and  <b>Explanation.pdf</b> file.
 8.	Step by step with screenshots explained in <a target='_blank' href='https://github.com/sheksha001/Fort/blob/master/EXPLANATIONS.pdf'> EXPLANATIONS.pdf</a> file.
 
